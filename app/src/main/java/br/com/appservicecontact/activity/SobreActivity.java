@@ -24,7 +24,7 @@ public class SobreActivity extends AppCompatActivity {
                 .setDescription( descricao + " " )
                 .addGroup("Nossas Redes Sociais!")
                 .addEmail("diegoteixeirapereira@gmail.com", "Envie seu email!")
-                .addWebsite("https://github.com/diegotpereira", "Desenvolvimento de projetos")
+                .addWebsite("https://github.com/diegotpereira", "Desenvolvimento de aplicações")
                 .addGroup("Redes sociais")
                 .addFacebook("facebook","Acesse aqui")
                 .create();
