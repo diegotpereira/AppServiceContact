@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    >
+
+    <!--Começa a cor no startColor e termina com o endColor-->
+    <gradient
+        android:angle="90"
+        android:startColor="#834d9b"
+        android:endColor="#D04ED5"
+        android:type="linear"
+        />
+
+</shape>
