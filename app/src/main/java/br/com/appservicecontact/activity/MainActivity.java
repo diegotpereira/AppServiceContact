@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity
 
     private void enviarEmail(){
         Intent email = new Intent( Intent.ACTION_SEND );
-        email.putExtra(Intent.EXTRA_EMAIL, new String[] {"rayner.kayo.tec@gmail.com"});
+        email.putExtra(Intent.EXTRA_EMAIL, new String[] {"diegoteixeirapereira@gmail.com"});
 
         //assunto
         email.putExtra(Intent.EXTRA_SUBJECT, new String[] {"Contato pelo APP"});
